@@ -2,9 +2,7 @@
  
 TODO:
 
-* Finish writing up index infostuff
-* Add download links for your selected work
-* Add the image of you and figure out a domain name
-* Projects Page
-* Contact Me Page Form Submission
-* Get images for projects page
+* Fix index skill names & desc
+* Add an image of yourself
+* Add Garfielf and Duck Source Code to Website
+* Duck Image
